@@ -18,3 +18,6 @@ List of Python Prjects
    <br> closer to the number than the previous guess return "WARMER!"
    <br> farther from the number than the previous guess, return "COLDER!"
 4. When the player's guess equals the number, it tells the player they've guessed correctly *and* how many guesses it took!
+
+## [Project 3 - Carnival Game](https://github.com/vermaparul85/Python-Projects/tree/main/Beginners-Projects/Guessing-Game)
+* This program depicts the carnival game of guessing which cup has the Red Ball
