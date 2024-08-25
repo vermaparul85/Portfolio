@@ -51,3 +51,11 @@ To play a hand of Blackjack the following steps must be followed:
 * If a Player Stands, play the Dealer's hand. The dealer will always Hit until the Dealer's value meets or exceeds 17
 * Determine the winner and adjust the Player's chips accordingly
 * Ask the Player if they'd like to play again
+
+## [Project 8 - Password Generator](https://github.com/vermaparul85/Python-Projects/tree/main/Password-Generator)
+* The program will ask:
+  <br>How many letters would you like in your password?
+  <br>How many symbols would you like?
+  <br>How many numbers would you like?
+
+* The objective is to take the inputs from the user to these questions and then generate a random password.
