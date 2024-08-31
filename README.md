@@ -52,6 +52,12 @@ To play a hand of Blackjack the following steps must be followed:
 * Determine the winner and adjust the Player's chips accordingly
 * Ask the Player if they'd like to play again
 
+### Method 1
+Play Blackjack game using functions and loops only.
+
+### Method 2
+Play Blackjack game using OOP concepts and functions/loops.
+
 ## [Project 8 - Password Generator](https://github.com/vermaparul85/Python-Projects/tree/main/Password-Generator)
 * The program will ask:
   <br>How many letters would you like in your password?
