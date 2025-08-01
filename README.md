@@ -1,5 +1,5 @@
 # Portfolio
-List of Python Programs - Beginner-Level
+**List of Python Programs - Beginner-Level**
 
 ## [Project 1 - Rock, Paper, Scissor](https://github.com/vermaparul85/Python-Projects/tree/main/Rock-Paper-Scissor)
 * This is a simple game for beginners using randomization.
