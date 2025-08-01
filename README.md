@@ -1,9 +1,14 @@
 # Portfolio
 ## End to End Data Analytics Projects
 ## [Project 1: Retail Orders Data Analysis (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Retail-Orders-Data-Analysis)
-Objective of this project is to download the dataset from Kaggle into Python jupyter notebook using Kaggle API, cleanse the dataaset using pandas library, load the dataset into SQL server using sqlalchemy library and then do the data analysis using SQL.
+Objective of this project is to download the retail orders dataset from Kaggle into Python jupyter notebook using Kaggle API, cleanse the dataset using pandas library, load the cleaned dataset into SQL server using sqlalchemy library and then do the data analysis using SQL.
 
 ![](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/blob/main/Images/retail-orders%20image.png)
+
+## [Project 2: Netflix Data Cleaning and Analysis (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Netflix-Data-Cleaning-and-Analysis)
+Objective of this project is to download the Netflix movies and TV shows dataset from Kaggle into Python jupyter notebook using Kaggle API, load the raw dataset into SQL server using sqlalchemy library, clean and transform the dataset in SQL Server and then do the data analysis using SQL.
+
+![](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/blob/main/Images/Netflix%20image.png)
 
 ## List of Python Programs - Beginner-Level
 ## [1. Rock, Paper, Scissor](https://github.com/vermaparul85/Python-Projects/tree/main/Rock-Paper-Scissor)
