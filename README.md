@@ -57,7 +57,7 @@ Method 1 is creating a calculator program using simple function and loops.
 Method 2 is creating a calculator program using functions as variable and recursion call.
 
 ## List of Python Programs - Intermediate-Level
-## [1. Playing Card War Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-Games)
+## [1. Playing Card War Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-War-Game)
 * Two players will each start off with half the deck.
 * Then they each remove a card, compare which card has the highest value.
 * The player with the higher card wins both cards. 
