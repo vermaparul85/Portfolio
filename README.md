@@ -1,13 +1,13 @@
 # Portfolio
-**List of Python Programs - Beginner-Level**
+## List of Python Programs - Beginner-Level
 
-## [1: Rock, Paper, Scissor](https://github.com/vermaparul85/Python-Projects/tree/main/Rock-Paper-Scissor)
+## [1. Rock, Paper, Scissor](https://github.com/vermaparul85/Python-Projects/tree/main/Rock-Paper-Scissor)
 * This is a simple game for beginners using randomization.
 * This game allows you to play with computer.
 * You choose one number from 0, 1, 2 for Rock, Paper and Scissor respectively.
 * Computer also chooses one number and displays who has won the game.
 
-## [2: Guessing Game](https://github.com/vermaparul85/Python-Projects/tree/main/Guessing-Game)
+## [2. Guessing Game](https://github.com/vermaparul85/Python-Projects/tree/main/Guessing-Game)
 * This program picks a random integer from 1 to 100, and has players guess the number.
 * The rules are:
    1. If a player's guess is less than 1 or greater than 100, say "OUT OF BOUNDS"
@@ -19,38 +19,16 @@
       <br> farther from the number than the previous guess, return "COLDER!"
    4. When the player's guess equals the number, it tells the player they've guessed correctly *and* how many guesses it took!
 
-## [3: Carnival Game](https://github.com/vermaparul85/Python-Projects/tree/main/Carnival-Game)
+## [3. Carnival Game](https://github.com/vermaparul85/Python-Projects/tree/main/Carnival-Game)
 * This program depicts the carnival game of guessing which cup has the Red Ball
 
-## [4: Hangman](https://github.com/vermaparul85/Python-Projects/tree/main/Hangman)
+## [4. Hangman](https://github.com/vermaparul85/Python-Projects/tree/main/Hangman)
 * This project asks you to guess the word.
 * you have 6 lives to guess the correct word.
 * If you fail to guess the word and exhaused all lives, you will die.
 
-## [5: Tic-Tac-Toe Game](https://github.com/vermaparul85/Python-Projects/tree/main/Tic-Tac-Toe)
+## [5. Tic-Tac-Toe Game](https://github.com/vermaparul85/Python-Projects/tree/main/Tic-Tac-Toe)
 * This is a two player game.
-
-## [6: Playing Card War Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-Games)
-* Two players will each start off with half the deck.
-* Then they each remove a card, compare which card has the highest value.
-* The player with the higher card wins both cards. 
-* The game continues until one players is out of cards.
-* If both player draw same card, then they will draw 5 more cards. Whoever has the top card with higher value will win all the drawn cards.
-
-## [7: Playing Card Blackjack Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-Games)
-To play a hand of Blackjack the following steps must be followed:
-* Create a deck of 52 cards
-* Shuffle the deck
-* Ask the Player for their bet
-* Make sure that the Player's bet does not exceed their available chips
-* Deal two cards to the Dealer and two cards to the Player
-* Show only one of the Dealer's cards, the other remains hidden
-* Show both of the Player's cards
-* Ask the Player if they wish to Hit, and take another card
-* If the Player's hand doesn't Bust (go over 21), ask if they'd like to Hit again.
-* If a Player Stands, play the Dealer's hand. The dealer will always Hit until the Dealer's value meets or exceeds 17
-* Determine the winner and adjust the Player's chips accordingly
-* Ask the Player if they'd like to play again
 
 ### Method 1
 Play Blackjack game using functions and loops only.
@@ -58,7 +36,7 @@ Play Blackjack game using functions and loops only.
 ### Method 2
 Play Blackjack game using OOP concepts and functions/loops.
 
-## [8: Password Generator](https://github.com/vermaparul85/Python-Projects/tree/main/Password-Generator)
+## [6. Password Generator](https://github.com/vermaparul85/Python-Projects/tree/main/Password-Generator)
 * The program will ask:
   <br>How many letters would you like in your password?
   <br>How many symbols would you like?
@@ -66,10 +44,10 @@ Play Blackjack game using OOP concepts and functions/loops.
 
 * The objective is to take the inputs from the user to these questions and then generate a random password.
 
-## [9: Caesar-Cipher](https://github.com/vermaparul85/Python-Projects/tree/main/Caesar-Cipher)
+## [7. Caesar-Cipher](https://github.com/vermaparul85/Python-Projects/tree/main/Caesar-Cipher)
 * The objective of this program is to encrypt and decrypt the messages.
 
-## [10: Calculator Program](https://github.com/vermaparul85/Python-Projects/tree/main/Calculator)
+## [8. Calculator Program](https://github.com/vermaparul85/Python-Projects/tree/main/Calculator)
 * Program asks the user to type the first number.
 * Program asks the user to type a mathematical operator (a choice of "+", "-", "*" or "/")
 * Program asks the user to type the second number.
@@ -84,3 +62,25 @@ Method 1 is creating a calculator program using simple function and loops.
 ### Method 2
 Method 2 is creating a calculator program using functions as variable and recursion call.
 
+## List of Python Programs - Intermediate-Level
+## [1. Playing Card War Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-Games)
+* Two players will each start off with half the deck.
+* Then they each remove a card, compare which card has the highest value.
+* The player with the higher card wins both cards. 
+* The game continues until one players is out of cards.
+* If both player draw same card, then they will draw 5 more cards. Whoever has the top card with higher value will win all the drawn cards.
+
+## [2. Playing Card Blackjack Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-Games)
+To play a hand of Blackjack the following steps must be followed:
+* Create a deck of 52 cards
+* Shuffle the deck
+* Ask the Player for their bet
+* Make sure that the Player's bet does not exceed their available chips
+* Deal two cards to the Dealer and two cards to the Player
+* Show only one of the Dealer's cards, the other remains hidden
+* Show both of the Player's cards
+* Ask the Player if they wish to Hit, and take another card
+* If the Player's hand doesn't Bust (go over 21), ask if they'd like to Hit again.
+* If a Player Stands, play the Dealer's hand. The dealer will always Hit until the Dealer's value meets or exceeds 17
+* Determine the winner and adjust the Player's chips accordingly
+* Ask the Player if they'd like to play again
