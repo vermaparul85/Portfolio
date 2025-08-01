@@ -30,12 +30,6 @@
 ## [5. Tic-Tac-Toe Game](https://github.com/vermaparul85/Python-Projects/tree/main/Tic-Tac-Toe)
 * This is a two player game.
 
-### Method 1
-Play Blackjack game using functions and loops only.
-
-### Method 2
-Play Blackjack game using OOP concepts and functions/loops.
-
 ## [6. Password Generator](https://github.com/vermaparul85/Python-Projects/tree/main/Password-Generator)
 * The program will ask:
   <br>How many letters would you like in your password?
@@ -84,3 +78,9 @@ To play a hand of Blackjack the following steps must be followed:
 * If a Player Stands, play the Dealer's hand. The dealer will always Hit until the Dealer's value meets or exceeds 17
 * Determine the winner and adjust the Player's chips accordingly
 * Ask the Player if they'd like to play again
+
+### Method 1
+Play Blackjack game using functions and loops only.
+
+### Method 2
+Play Blackjack game using OOP concepts and functions/loops.
