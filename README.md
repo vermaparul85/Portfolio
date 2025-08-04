@@ -10,6 +10,11 @@ Objective of this project is to download the Netflix movies and TV shows dataset
 
 ![](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/blob/main/Images/Netflix%20image.png)
 
+## [Project 3: Yelp Business Reviews Analysis (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Yelp-Business-Reviews-Analysis)
+Objective of this project is to download the Yelp datasets (Reviews and Business JSON files) and load them to SQL server using sqlalchemy library. As the Yelp datasets are big in size, the dataset will be loaded to SQL Server into chunks along with sentiment analysis done in Python. Once both the datasets will be loaded, will do the data analysis using SQL.
+
+
+
 ## List of Python Programs - Beginner-Level
 ## [1. Rock, Paper, Scissor](https://github.com/vermaparul85/Python-Projects/tree/main/Rock-Paper-Scissor)
 * This is a simple game for beginners using randomization.
