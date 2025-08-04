@@ -99,3 +99,4 @@ Method 1 is creating a calculator program using simple function and loops.
 
 ### Method 2
 Method 2 is creating a calculator program using functions as variable and recursion call.
+
