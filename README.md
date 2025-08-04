@@ -15,6 +15,35 @@ Objective of this project is to download the Yelp datasets (Reviews and Business
 
 ![](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/blob/main/Images/yelp-dataflow%20image.png)
 
+## List of Python Programs - Intermediate-Level
+## [1. Playing Card War Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-War-Game)
+* Two players will each start off with half the deck.
+* Then they each remove a card, compare which card has the highest value.
+* The player with the higher card wins both cards. 
+* The game continues until one players is out of cards.
+* If both player draw same card, then they will draw 5 more cards. Whoever has the top card with higher value will win all the drawn cards.
+
+## [2. Playing Card Blackjack Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-Games)
+To play a hand of Blackjack the following steps must be followed:
+* Create a deck of 52 cards
+* Shuffle the deck
+* Ask the Player for their bet
+* Make sure that the Player's bet does not exceed their available chips
+* Deal two cards to the Dealer and two cards to the Player
+* Show only one of the Dealer's cards, the other remains hidden
+* Show both of the Player's cards
+* Ask the Player if they wish to Hit, and take another card
+* If the Player's hand doesn't Bust (go over 21), ask if they'd like to Hit again.
+* If a Player Stands, play the Dealer's hand. The dealer will always Hit until the Dealer's value meets or exceeds 17
+* Determine the winner and adjust the Player's chips accordingly
+* Ask the Player if they'd like to play again
+
+### Method 1
+Play Blackjack game using functions and loops only.
+
+### Method 2
+Play Blackjack game using OOP concepts and functions/loops.
+
 ## List of Python Programs - Beginner-Level
 ## [1. Rock, Paper, Scissor](https://github.com/vermaparul85/Python-Projects/tree/main/Rock-Paper-Scissor)
 * This is a simple game for beginners using randomization.
@@ -70,32 +99,3 @@ Method 1 is creating a calculator program using simple function and loops.
 
 ### Method 2
 Method 2 is creating a calculator program using functions as variable and recursion call.
-
-## List of Python Programs - Intermediate-Level
-## [1. Playing Card War Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-War-Game)
-* Two players will each start off with half the deck.
-* Then they each remove a card, compare which card has the highest value.
-* The player with the higher card wins both cards. 
-* The game continues until one players is out of cards.
-* If both player draw same card, then they will draw 5 more cards. Whoever has the top card with higher value will win all the drawn cards.
-
-## [2. Playing Card Blackjack Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-Games)
-To play a hand of Blackjack the following steps must be followed:
-* Create a deck of 52 cards
-* Shuffle the deck
-* Ask the Player for their bet
-* Make sure that the Player's bet does not exceed their available chips
-* Deal two cards to the Dealer and two cards to the Player
-* Show only one of the Dealer's cards, the other remains hidden
-* Show both of the Player's cards
-* Ask the Player if they wish to Hit, and take another card
-* If the Player's hand doesn't Bust (go over 21), ask if they'd like to Hit again.
-* If a Player Stands, play the Dealer's hand. The dealer will always Hit until the Dealer's value meets or exceeds 17
-* Determine the winner and adjust the Player's chips accordingly
-* Ask the Player if they'd like to play again
-
-### Method 1
-Play Blackjack game using functions and loops only.
-
-### Method 2
-Play Blackjack game using OOP concepts and functions/loops.
