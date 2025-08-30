@@ -20,4 +20,4 @@ Objective of this project is to download the Ecommerce dataset from Kaggle into 
 ### [2. Playing Card Blackjack Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-Games)
 
 ## **List of Python Projects - Real-World Use Cases**
-### [1. Automate Word Document Cover - Letter Creation](https://github.com/vermaparul85/Python-Projects/tree/main/Automate-Cover-Letter-Creation)
+### [1. Automate Word Document - Cover Letter Creation](https://github.com/vermaparul85/Python-Projects/tree/main/Automate-Cover-Letter-Creation)
