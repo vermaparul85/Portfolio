@@ -14,6 +14,7 @@ Objective of this project is to download the Ecommerce dataset from Kaggle into 
 ### [6. Password Generator](https://github.com/vermaparul85/Python-Projects/tree/main/Password-Generator)
 ### [7. Caesar-Cipher](https://github.com/vermaparul85/Python-Projects/tree/main/Caesar-Cipher)
 ### [8. Calculator Program](https://github.com/vermaparul85/Python-Projects/tree/main/Calculator)
+### [9. Small Python Programs - Beginner Friendly](https://github.com/vermaparul85/Python-Projects/tree/main/Small-Python-Programs-Beginner-Level)
 
 ## **List of Python Programs - Intermediate-Level**
 ### [1. Playing Card War Game](https://github.com/vermaparul85/Python-Projects/tree/main/Playing-Cards-War-Game)
