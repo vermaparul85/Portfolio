@@ -5,6 +5,11 @@ Objective of this project is to work with a real-world ecommerce dataset, and pe
 
 ![](Images/Ecommerce-image.png)
 
+### [Project 2 - Students Performnace Data Analysis Project (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Student-Performance-Data-Analysis)
+Objective of this project is to work with a real-world student performance dataset, performing data extraction, cleaning, analysis, and visualization to derive meaningful insights.
+
+![](https://github.com/vermaparul85/Portfolio/blob/main/Images/Student%20performance%20image.png)
+
 ## List of Python Programs - Beginner-Level
 ### [1. Rock, Paper, Scissor](https://github.com/vermaparul85/Python-Projects/tree/main/Rock-Paper-Scissor)
 ### [2. Guessing Game](https://github.com/vermaparul85/Python-Projects/tree/main/Guessing-Game)
