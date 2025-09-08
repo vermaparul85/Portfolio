@@ -6,7 +6,7 @@ Objective of this project is to work with a real-world ecommerce dataset, and pe
 ![](Images/Ecommerce-image.png)
 
 ### [Project 2 - Students Performance Data Analysis Project (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Student-Performance-Data-Analysis)
-Objective of this project is to work with a real-world student performance dataset, performing data extraction, cleaning, analysis, and visualization to derive meaningful insights.
+Objective of this project is to work with a real-world student performance dataset, performing data extraction, cleaning, analysis, and visualization to derive meaningful insights. The data has been analyzed in different ways using Pandas, SQL and visualization libraries (Matplotlib/Seaborn).
 
 ![](https://github.com/vermaparul85/Portfolio/blob/main/Images/Student%20performance%20image.png)
 
