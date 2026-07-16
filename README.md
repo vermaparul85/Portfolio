@@ -8,7 +8,7 @@ Objective of this project is to work with a real-world ecommerce dataset, and pe
 ### [Project 2 - Students Performance Data Analysis Project (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Student-Performance-Data-Analysis)
 Objective of this project is to work with a real-world student performance dataset, performing data extraction, cleaning, analysis, and visualization to derive meaningful insights. The data has been analyzed in different ways using Pandas, SQL and visualization libraries (Matplotlib/Seaborn).
 
-![](https://github.com/vermaparul85/Portfolio/blob/main/Images/Student%20performance%20image.png)
+![](Images/Student%20performance%20image.png)
 
 ### [Project 3 - Uber Pickups Data Analysis Project (Python)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/edit/main/Uber-Pickup-Data-Analysis)
 **Project Overview:** <br>
@@ -18,7 +18,7 @@ Objective of this project is to work with a real-world dataset, performing data 
 * **Exploratory Data Analysis:** Conducted data analysis in Jupyter Notebook using Pandas.
 * **Data Visualization:** Visualized trends and patterns through various charts with Matplotlib and Seaborn to highlight key insights and relationships.
 
-![](https://github.com/vermaparul85/Portfolio/blob/main/Images/Uber%20Pickup%20image.png)
+![](Images/Uber%20Pickup%20image.png)
 
 ## List of Python Programs - Beginner-Level
 ### [1. Rock, Paper, Scissor](https://github.com/vermaparul85/Python-Projects/tree/main/Rock-Paper-Scissor)
